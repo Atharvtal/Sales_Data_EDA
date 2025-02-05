@@ -20,5 +20,8 @@ This project involves performing Exploratory Data Analysis (EDA) on sales data t
 The dataset used for this analysis is included in this repository.
 
 ## How to Run the Notebook
-1. Clone this repository:
-   `ipy.file:
+[View Sales Data EDA Notebook](https://github.com/Atharvtal/Sales_Data_EDA/blob/main/sales_data_eda.ipynb)
+[pdf of file ](https://github.com/Atharvtal/Sales_Data_EDA/blob/main/sales_data_eda.ipynb)
+   
+
+   https://github.com/Atharvtal/Sales_Data_EDA/blob/main/sales_data_eda.ipynb
