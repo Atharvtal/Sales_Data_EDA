@@ -21,7 +21,7 @@ The dataset used for this analysis is included in this repository.
 
 ## How to Run the Notebook
 [View Sales Data EDA Notebook](https://github.com/Atharvtal/Sales_Data_EDA/blob/main/sales_data_eda.ipynb)
-[pdf of file ](https://github.com/Atharvtal/Sales_Data_EDA/blob/main/sales_data_eda.ipynb)
+[pdf of file ](https://github.com/Atharvtal/Sales_Data_EDA/blob/main/sales_data_eda.pdf)
    
 
    https://github.com/Atharvtal/Sales_Data_EDA/blob/main/sales_data_eda.ipynb
